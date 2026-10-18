@@ -15,5 +15,5 @@
 
 /* Tiny mascot beside the footer signature. */
 .footer-signature{display:inline-flex;align-items:center;gap:6px;white-space:nowrap}
-.footer-signature img{display:block;width:22px;height:28px;object-fit:contain}
+.footer-signature img{display:block;width:32px;height:auto;object-fit:contain}
 footer{align-items:center}

@@ -13,8 +13,7 @@
 .paper-links>span{color:#838d98;font-size:11px}
 @media(max-width:640px){.paper{grid-template-columns:1fr;gap:18px}.paper-thumbnail{max-width:340px}.paper .authors{font-size:14px}.paper-links{font-size:14px}}
 
-/* A small mascot greeting at the end of the page. */
-.footer-mascot{display:flex;justify-content:flex-end;margin-top:28px;padding-right:8px}
-.footer-mascot img{display:block;width:76px;height:100px;object-fit:contain;transform:rotate(6deg)}
-.footer-mascot+footer{margin-top:8px}
-@media(max-width:640px){.footer-mascot img{width:60px;height:80px}}
+/* Tiny mascot beside the footer signature. */
+.footer-signature{display:inline-flex;align-items:center;gap:6px;white-space:nowrap}
+.footer-signature img{display:block;width:22px;height:28px;object-fit:contain}
+footer{align-items:center}

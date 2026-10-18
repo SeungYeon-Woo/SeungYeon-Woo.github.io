@@ -9,13 +9,13 @@ Run `python3 -m http.server 8765 --bind 127.0.0.1` in this directory, then open 
 ## Update content
 
 - Edit biography, research, experience, and projects in `index.html`.
-- Replace `assets/profile.jpg` to update the portrait. Adjust `.portrait` in `style.css` if the new photo needs a different crop.
+- Replace `assets/profile-outdoor.png` to update the portrait. Adjust `.portrait` in `style.css` if the new photo needs a different crop.
 - Replace `assets/CV_SeungYeon_Woo.pdf` to update the downloadable CV.
 - Edit colors, spacing, and responsive layouts in `style.css`.
 
 ## Content review
 
-The initial content is based on the supplied CV. Per the owner's update, Visual Computing Lab at SNU (Jul 2026 - Present) is the current internship; Robot Vision Lab and TKU Lab entries are omitted from the website. Confirm the current affiliation, research dates, and expected graduation before publishing. The CV is an unchanged copy of the supplied document and includes its original contact details. The profile photo is provisional. AnyCamVLA now includes the full author list, IROS 2026 venue, official project thumbnail, and project/arXiv/PDF/code/video links, verified against the official project page and repository.
+The initial content is based on the supplied CV. Per the owner's update, Visual Computing Lab at SNU (Jul 2026 - Present) is the current internship; Robot Vision Lab and TKU Lab entries are omitted from the website. Confirm the current affiliation, research dates, and expected graduation before publishing. The CV is an unchanged copy of the supplied document and includes its original contact details. The profile photo uses the owner-approved outdoor portrait. AnyCamVLA now includes the full author list, IROS 2026 venue, official project thumbnail, and project/arXiv/PDF/code/video links, verified against the official project page and repository.
 
 ## GitHub Pages
 
